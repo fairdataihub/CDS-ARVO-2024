@@ -12,7 +12,7 @@ for Structuring Clinical Research Data and Metadata", is scheduled for Monday, M
 
 ## Material
 
-Poster: [2024-05-06-ARVO-CDS.pdf](2024-05-06-ARVO-CDS.pdf)
+Poster: [2024-05-06-Poster-ARVO-CDS.pdf](2024-05-06-Poster-ARVO-CDS.pdf)
 
 ## Resources
 We list here major resources relevant to the poster
