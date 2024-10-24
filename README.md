@@ -8,11 +8,11 @@
 
 ## About
 Bhavesh Patel is presenting a poster on the Clinical Dataset Structure (CDS) at ARVO 2024. The poster, titled "Clinical Dataset Structure: A Universal Standard 
-for Structuring Clinical Research Data and Metadata", is scheduled for Monday, May 6th 2024, 3-4:45 pm PT. More information is available at https://www.arvo.org/annual-meeting. This repository contains the poster as well as a list of relevant resources.
+for Structuring Clinical Research Data and Metadata", is scheduled for Monday, May 6th 2024, 3-4:45 pm PT. More information is available at https://www.arvo.org/annual-meeting. This repository contains the poster as well as a list of relevant resources. The abstract is available at https://iovs.arvojournals.org/article.aspx?articleid=2795004
 
 ## Material
 
-Poster: [2024-05-06-Poster-ARVO-CDS.pdf](2024-05-06-Poster-ARVO-CDS.pdf)
+Poster: [2024-05-06-Poster-ARVO-CDS.pdf](2024-05-06-Poster-ARVO-CDS.pdf). Also available on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13984769.svg)](https://doi.org/10.5281/zenodo.13984769)
 
 ## Resources
 We list here major resources relevant to the poster:
